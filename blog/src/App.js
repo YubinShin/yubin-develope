@@ -28,8 +28,5 @@ function App() {
   );
 }
 
-function HTML() {
-  return (<div className="div"><Outlet></Outlet></div>
-  )
-}
+
 export default App;
